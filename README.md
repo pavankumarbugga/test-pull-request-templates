@@ -1,2 +1,2 @@
-# test-pull-request-templates
+# Test pull-request-templates
 Repository to test pull request templates
